@@ -1,0 +1,8 @@
+[package]
+name = "first-attempt-at-rust"
+version = "0.1.0"
+authors = ["Boud <maxime.boudreault.0@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+ferris-says = "0.1"
